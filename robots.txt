@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lifeguarddotsui-gpt.github.io/The-Supreme-Person/sitemap.xml
