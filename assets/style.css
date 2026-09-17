@@ -16,3 +16,15 @@
 .journey-actions h2{font-size:clamp(2rem,4vw,3.5rem);margin-bottom:0}
 .journey-actions .actions{justify-content:flex-end;margin-top:0}
 @media(max-width:760px){.journey-head{padding-top:75px}.journey-actions{grid-template-columns:1fr;gap:25px}.journey-actions .actions{justify-content:flex-start}}
+
+
+/* Article comparison and sources */
+.table-wrap{overflow-x:auto;margin:30px 0 16px;border:1px solid #cec4b3}
+.article table{width:100%;border-collapse:collapse;min-width:620px;background:var(--cream)}
+.article th,.article td{padding:15px 17px;text-align:left;vertical-align:top;border-bottom:1px solid #ddd3c2}
+.article thead th{background:var(--night);color:var(--cream);font-size:.82rem;letter-spacing:.05em}
+.article tbody th{width:25%;color:var(--indigo)}
+.table-note{color:var(--muted);font-size:.92rem!important}
+.sources{margin-top:70px;padding-top:8px;border-top:1px solid #cec4b3}
+.sources li{margin-bottom:12px}
+.sources a{color:var(--indigo);text-decoration-thickness:1px;text-underline-offset:3px}
