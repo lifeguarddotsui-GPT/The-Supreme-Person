@@ -2,6 +2,21 @@
 
 This ledger records substantive public-site growth work. Analytics figures are reported only when a configured measurement source makes them available.
 
+## 2026-09-17
+
+- **UTC date:** 2026-09-17
+- **Belize date:** 2026-09-17
+- **Task selected:** Meaningful refresh of the Prakriti–Purusha guide
+- **Reason:** The guide already answered the topic well, but needed stronger scannability, explicit authoritative sourcing and search-engine-readable FAQ data rather than another thin article.
+- **Files changed:** `library/prakriti-and-purusha.html`, `assets/style.css`, `sitemap.xml`
+- **Release commit:** `7dfd96799bb364f138c5f8d5f042b19f5ec21ac1`
+- **Deployment result:** Succeeded — GitHub Pages workflow run [35231577929](https://github.com/lifeguarddotsui-GPT/The-Supreme-Person/actions/runs/35231577929)
+- **Public URL:** https://lifeguarddotsui-gpt.github.io/The-Supreme-Person/library/prakriti-and-purusha.html
+- **Validation:** 1,798 words; 56-character title; 140-character description; Article and FAQ JSON-LD parsed; four visible FAQs matched four structured questions; internal paths resolved; sitemap and RSS XML balanced; Amazon links retained campaign parameters and `amazon_outbound_click` hooks.
+- **Amazon outbound clicks:** Unavailable — no analytics measurement identifier is configured. This is not a zero-click count.
+- **Amazon listing inspection:** Amazon returned a server error to the public fetch on 2026-09-17, so no unverified listing claim was recorded.
+- **Next recommended action:** Audit the reported Kindle download size against the verified compressed EPUB and document any KDP replacement steps; do not claim the listing’s file size until the public listing or KDP record can be read reliably.
+
 ## 2026-09-16
 
 - **UTC date:** 2026-09-16
