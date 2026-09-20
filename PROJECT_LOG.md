@@ -2,6 +2,21 @@
 
 This ledger records substantive public-site growth work. Analytics figures are reported only when a configured measurement source makes them available.
 
+## 2026-09-20
+
+- **UTC date:** 2026-09-20
+- **Belize date:** 2026-09-20
+- **Task selected:** Amazon listing and Kindle-file audit
+- **Reason:** The preserved final EPUB is 13,549,321 bytes (13.55 MB), while an earlier public observation reported 56.9 MB. That older listing figure could not be reverified today, but a 4.20× difference would materially affect delivery charges under the 70% royalty option and warranted a documented verification path rather than another article.
+- **Files changed:** `KINDLE_FILE_AUDIT.md`
+- **Release commit:** `f945d40ae50cc965baaf33283faac92ee9aa1bff`
+- **Deployment result:** Succeeded — GitHub Pages workflow run [35515598196](https://github.com/lifeguarddotsui-GPT/The-Supreme-Person/actions/runs/35515598196)
+- **Public URL:** https://github.com/lifeguarddotsui-GPT/The-Supreme-Person/blob/main/KINDLE_FILE_AUDIT.md
+- **Validation:** Verified the preserved EPUB filename and exact stored size; calculations use Amazon's published $0.15/MB Amazon.com delivery rate and clearly separate verified facts from the unverified 56.9 MB observation. Sitemap and RSS remained valid and unchanged; the site’s `amazon_outbound_click` hook remains present.
+- **Amazon outbound clicks:** Unavailable — no analytics measurement identifier is configured. This is not a zero-click count.
+- **Amazon listing inspection:** The public listing returned a server error on 2026-09-20, so the current displayed download size was not verified.
+- **Next recommended action:** Check the processed file size inside the authenticated KDP title record. Replace the manuscript only if KDP is serving a larger or older build; meanwhile, continue the independent growth cycle with a distinct weekly article or a technical conversion improvement.
+
 ## 2026-09-17
 
 - **UTC date:** 2026-09-17
