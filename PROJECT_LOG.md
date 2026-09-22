@@ -2,6 +2,21 @@
 
 This ledger records substantive public-site growth work. Analytics figures are reported only when a configured measurement source makes them available.
 
+## 2026-09-22
+
+- **UTC date:** 2026-09-22
+- **Belize date:** 2026-09-22
+- **Task selected:** Technical SEO, share metadata and font-loading performance
+- **Reason:** The homepage had incomplete Open Graph data, while the library and guide had no social-card metadata. The shared stylesheet also requested Google Fonts through a render-blocking CSS import. This release improves discovery and link-preview context without adding another article before the weekly content interval.
+- **Files changed:** `index.html`, `library/index.html`, `library/prakriti-and-purusha.html`, `assets/style.css`, `sitemap.xml`
+- **Release commit:** `03fa91bec8446ba52f987933b4ee2dc8cf1e4b67`
+- **Deployment result:** Succeeded — GitHub Pages workflow run [35738634935](https://github.com/lifeguarddotsui-GPT/The-Supreme-Person/actions/runs/35738634935)
+- **Public URL:** https://lifeguarddotsui-gpt.github.io/The-Supreme-Person/
+- **Validation:** Added page-specific Open Graph and X metadata, theme colors, richer Book and CollectionPage structured data and font preconnections; all JSON-LD parsed. Removed the CSS font `@import`; sitemap and RSS XML remained balanced; seven campaign-attributed Amazon links and the `amazon_outbound_click` event hook remained intact.
+- **Amazon outbound clicks:** Unavailable — no analytics measurement identifier is configured. This is not a zero-click count.
+- **Amazon listing inspection:** Amazon returned a server error to the public fetch on 2026-09-22, so no new listing claim was recorded.
+- **Next recommended action:** After the weekly interval, publish the source-grounded “Karma-yoga in Daily Life” guide with a library card, sitemap entry, RSS item, structured data and tracked Amazon pathway.
+
 ## 2026-09-21
 
 - **UTC date:** 2026-09-21
