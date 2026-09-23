@@ -2,6 +2,21 @@
 
 This ledger records substantive public-site growth work. Analytics figures are reported only when a configured measurement source makes them available.
 
+## 2026-09-23
+
+- **UTC date:** 2026-09-23
+- **Belize date:** 2026-09-23
+- **Task selected:** Homepage conversion improvement — reader entry pathways
+- **Reason:** The homepage explained the book’s structure but did not help visitors connect their own interests to a useful next step. Three pathways now serve science-and-evolution readers, consciousness-and-identity readers, and practice-and-devotion readers without adding a premature second article.
+- **Files changed:** `index.html`, `assets/style.css`, `sitemap.xml`
+- **Release commit:** `f72b98e6a00e1364961bab65e1042456b2cd99b6`
+- **Deployment result:** Succeeded — GitHub Pages workflow run [35878219753](https://github.com/lifeguarddotsui-GPT/The-Supreme-Person/actions/runs/35878219753)
+- **Public URL:** https://lifeguarddotsui-gpt.github.io/The-Supreme-Person/
+- **Validation:** Three accessible reader pathways; responsive one-column layout below 900px; internal links resolved; five homepage Amazon links retained campaign parameters and the `amazon_outbound_click` hook; sitemap and RSS XML remained balanced.
+- **Amazon outbound clicks:** Unavailable — no analytics measurement identifier is configured. This is not a zero-click count.
+- **Amazon listing inspection:** Amazon returned a server error to the public fetch on 2026-09-23, so no new listing claim was recorded.
+- **Next recommended action:** Publish the source-grounded “Karma-yoga in Daily Life” guide when the seven-day long-form interval is complete, then add its library card, sitemap entry, RSS item and internal links.
+
 ## 2026-09-22
 
 - **UTC date:** 2026-09-22
