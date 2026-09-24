@@ -2,6 +2,23 @@
 
 This ledger records substantive public-site growth work. Analytics figures are reported only when a configured measurement source makes them available.
 
+## 2026-09-24
+
+- **UTC date:** 2026-09-24
+- **Belize date:** 2026-09-24
+- **Task selected:** New long-form educational guide — Karma-yoga in Daily Life
+- **Reason:** The seven-day long-form interval was complete, the library had no practical guide to action, and “karma yoga in daily life” serves a distinct informational search intent while naturally connecting the book’s practice-and-devotion pathway to its Kindle edition.
+- **Files changed:** `library/karma-yoga-daily-life.html`, `library/index.html`, `index.html`, `sitemap.xml`, `feed.xml`
+- **Release commit:** `4c30982c1fc39bed3f7d5b3f64d7c5aa88a8560a`
+- **Deployment result:** Succeeded — GitHub Pages workflow run [36015938889](https://github.com/lifeguarddotsui-GPT/The-Supreme-Person/actions/runs/36015938889)
+- **Public URL:** https://lifeguarddotsui-gpt.github.io/The-Supreme-Person/library/karma-yoga-daily-life.html
+- **Validation:** 1,626 words; 51-character title; 129-character description; Article and FAQ JSON-LD parsed; four visible FAQs matched four structured questions; homepage and library internal paths added; sitemap and RSS entries added; Amazon links retained campaign parameters and the `amazon_outbound_click` hook.
+- **Sources:** Internet Encyclopedia of Philosophy’s Bhagavad Gītā overview and IIT Kanpur’s Gita Supersite chapters 2, 3, 5 and 18; claims were paraphrased and no scripture translation was reproduced.
+- **Amazon outbound clicks:** Unavailable — no analytics measurement identifier is configured. This is not a zero-click count.
+- **Performance context:** The latest user-supplied KDP screenshot showed 2 processed orders, $9.06 estimated royalties and 55 KENP pages read for the current month; these figures cannot be attributed to the reader site.
+- **Amazon listing inspection:** Amazon returned a server error to the public fetch on 2026-09-24, so no new listing claim was recorded.
+- **Next recommended action:** Create a guide-specific organic distribution package and strengthen cross-links between the two library guides; install GA4 and Amazon Attribution links when their non-secret identifiers are supplied.
+
 ## 2026-09-23
 
 - **UTC date:** 2026-09-23
