@@ -2,6 +2,22 @@
 
 This ledger records substantive public-site growth work. Analytics figures are reported only when a configured measurement source makes them available.
 
+## 2026-09-25
+
+- **UTC date:** 2026-09-25
+- **Belize date:** 2026-09-25
+- **Task selected:** Technical SEO and library conversion — connect the two live guides
+- **Reason:** The new karma-yoga guide was live but not yet integrated as a full topic cluster. Bidirectional contextual links, breadcrumbs, a current homepage feature and a published-first library order now give readers and crawlers clearer paths through the site without creating another article.
+- **Files changed:** `index.html`, `library/index.html`, `library/prakriti-and-purusha.html`, `library/karma-yoga-daily-life.html`, `sitemap.xml`
+- **Release commit:** `14ec0861441a9f1aa140854a626cff9aac16a0ca`
+- **Deployment result:** Succeeded — GitHub Pages workflow run [36150454631](https://github.com/lifeguarddotsui-GPT/The-Supreme-Person/actions/runs/36150454631)
+- **Public URL:** https://lifeguarddotsui-gpt.github.io/The-Supreme-Person/
+- **Validation:** Both live guides now cross-link; visible and BreadcrumbList structured breadcrumbs were added; all JSON-LD parsed; the homepage feature and library order were updated; sitemap and RSS XML validated; all nine Amazon links across changed HTML retained campaign parameters and the `amazon_outbound_click` hook remained present.
+- **Amazon outbound clicks:** Unavailable — no analytics measurement identifier is configured. This is not a zero-click count.
+- **Traffic figures:** Unavailable — no GA4 or Search Console data source is configured.
+- **Amazon listing inspection:** Amazon returned a server error to the public fetch on 2026-09-25, so no new listing claim was recorded.
+- **Next recommended action:** Create a seven-post organic distribution package centered on the new karma-yoga guide, with the guide URL as the primary destination and a natural Kindle pathway inside the article.
+
 ## 2026-09-24
 
 - **UTC date:** 2026-09-24
