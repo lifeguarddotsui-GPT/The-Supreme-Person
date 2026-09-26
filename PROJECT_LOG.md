@@ -2,6 +2,22 @@
 
 This ledger records substantive public-site growth work. Analytics figures are reported only when a configured measurement source makes them available.
 
+## 2026-09-26
+
+- **UTC date:** 2026-09-26
+- **Belize date:** 2026-09-26
+- **Task selected:** Seven-post organic X distribution package for the karma-yoga guide
+- **Reason:** The new guide and its internal-link cluster were complete, but the site still needed a free distribution asset capable of bringing readers to the educational page before presenting the Kindle option.
+- **Files changed:** `campaigns/2026-09-26-karma-yoga-x-campaign.md`
+- **Release commit:** `984603d547994444f08a6e10904ca24f464ce1d2`
+- **Deployment result:** Succeeded — GitHub Pages workflow run [36247976740](https://github.com/lifeguarddotsui-GPT/The-Supreme-Person/actions/runs/36247976740)
+- **Public URL:** https://github.com/lifeguarddotsui-GPT/The-Supreme-Person/blob/main/campaigns/2026-09-26-karma-yoga-x-campaign.md
+- **Validation:** Seven distinct short posts measured 259–271 characters and the discussion question measured 273 characters, including the full tracked guide URL. The package also contains one longer educational post, publishing safeguards and no fabricated quotations, reviews, endorsements, rankings or sales claims. Sitemap and RSS XML remained valid and the guide’s `amazon_outbound_click` hook remained present.
+- **Amazon outbound clicks:** Unavailable — no analytics measurement identifier is configured. This is not a zero-click count.
+- **Traffic figures:** Unavailable — no GA4 or Search Console data source is configured.
+- **Amazon listing inspection:** The public Amazon fetch was unavailable on 2026-09-26, so no new listing claim was recorded.
+- **Next recommended action:** Create and install an original branded social-preview image for the karma-yoga guide, then add `og:image` and large-image X card metadata so shared links earn stronger visual attention.
+
 ## 2026-09-25
 
 - **UTC date:** 2026-09-25
