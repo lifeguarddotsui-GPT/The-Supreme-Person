@@ -2,6 +2,22 @@
 
 This ledger records substantive public-site growth work. Analytics figures are reported only when a configured measurement source makes them available.
 
+## 2026-09-27
+
+- **UTC date:** 2026-09-27
+- **Belize date:** 2026-09-27
+- **Task selected:** Social-preview image and large-card metadata for the karma-yoga guide
+- **Reason:** The guide-specific X campaign was ready, but shared links still lacked a distinctive large preview. An original image and complete Open Graph/X metadata improve visual recognition without adding thin content or paid distribution.
+- **Files changed:** `assets/karma-yoga-social-preview.jpg`, `library/karma-yoga-daily-life.html`, `sitemap.xml`
+- **Release commit:** `f80f82c349ae97b784706ad9e2bd17828b6791b6`
+- **Deployment result:** Succeeded — GitHub Pages workflow run [36325875612](https://github.com/lifeguarddotsui-GPT/The-Supreme-Person/actions/runs/36325875612)
+- **Public URL:** https://lifeguarddotsui-gpt.github.io/The-Supreme-Person/library/karma-yoga-daily-life.html
+- **Validation:** Original 1200 × 630 JPEG; approximately 232 KB; large-image X card; Open Graph image type, dimensions and descriptive alt text; Article ImageObject structured data; updated modification dates; all JSON-LD parsed; sitemap remained valid; all three article Amazon links retained campaign parameters and the `amazon_outbound_click` hook remained present.
+- **Amazon outbound clicks:** Unavailable — no analytics measurement identifier is configured. This is not a zero-click count.
+- **Traffic figures:** Unavailable — no GA4 or Search Console data source is configured.
+- **Amazon listing inspection:** The public Amazon fetch was unavailable on 2026-09-27, so no new listing claim was recorded.
+- **Next recommended action:** Complete a seven-day performance and publishing synthesis from the project ledger, identify the strongest autonomous next steps, and keep analytics configuration as the principal measurement dependency.
+
 ## 2026-09-26
 
 - **UTC date:** 2026-09-26
