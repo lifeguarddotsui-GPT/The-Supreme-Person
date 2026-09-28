@@ -2,6 +2,24 @@
 
 This ledger records substantive public-site growth work. Analytics figures are reported only when a configured measurement source makes them available.
 
+## 2026-09-28
+
+- **UTC date:** 2026-09-28
+- **Belize date:** 2026-09-28
+- **Task selected:** Weekly performance and publishing synthesis for September 21–27
+- **Reason:** Seven consecutive release cycles established enough evidence to assess output, distinguish shipped assets from measured outcomes, and set the next seven-day priority without creating thin content.
+- **Files changed:** `reports/2026-09-21-to-2026-09-27-growth-synthesis.md`
+- **Release commit:** `e61f84b12bb8b30826791300b937fbad6f89e0e9`
+- **Deployment result:** Succeeded — GitHub Pages workflow run [36439019246](https://github.com/lifeguarddotsui-GPT/The-Supreme-Person/actions/runs/36439019246)
+- **Public URL:** https://github.com/lifeguarddotsui-GPT/The-Supreme-Person/blob/main/reports/2026-09-21-to-2026-09-27-growth-synthesis.md
+- **Verified weekly scorecard:** 7 release cycles; 7 successful reader-facing deployments; 1 new 1,626-word guide; 2 substantive guides live; 4 sitemap URLs; 2 RSS items; 2 campaign packages containing 14 short X posts, 2 longer posts and 2 discussion questions.
+- **Validation:** Scorecard totals were cross-checked against the dated ledger, 14 repository commits from September 21–27, both campaign files, the library index, sitemap and RSS. The report does not alter public HTML, internal links, metadata, sitemap or RSS; their previously validated production versions remain unchanged. The current Amazon event hook is present, but no analytics provider is configured to receive it.
+- **Amazon outbound clicks:** Unavailable — no analytics measurement identifier is configured. This is not a zero-click count.
+- **Traffic figures:** Unavailable — no GA4 or Search Console data source is configured.
+- **KDP baseline:** A user-supplied September 24 snapshot showed 2 processed orders, $9.06 estimated royalties and 55 KENP pages read for the current month. These figures are not attributable to the reader site or X campaigns.
+- **Amazon listing inspection:** The public Amazon listing fetch was unavailable on 2026-09-28, so no new listing claim was recorded.
+- **Next recommended action:** Configure GA4, Search Console and separate Amazon Attribution links when the user supplies their non-secret identifiers. Until then, add a large social-preview image to the Prakriti–Purusha guide; consider the next distinct long-form guide, evolution and the emergence of consciousness, on or after 2026-10-01.
+
 ## 2026-09-27
 
 - **UTC date:** 2026-09-27
