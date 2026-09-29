@@ -2,6 +2,24 @@
 
 This ledger records substantive public-site growth work. Analytics figures are reported only when a configured measurement source makes them available.
 
+## 2026-09-29
+
+- **UTC date:** 2026-09-29
+- **Belize date:** 2026-09-29
+- **Task selected:** Original social-preview image and large-card metadata for the Prakriti–Purusha guide
+- **Reason:** The cornerstone consciousness guide still used a small summary card while the newer karma-yoga guide had a distinctive visual. A guide-specific preview improves recognition when the page is shared without creating another article or relying on paid distribution.
+- **Files changed:** `assets/prakriti-purusha-social-preview.jpg`, `library/prakriti-and-purusha.html`, `sitemap.xml`
+- **Release commit:** `ac2e89c9d7a209bd1992016a414638cd2c9ece0f`
+- **Deployment result:** Succeeded — GitHub Pages workflow run [36580759850](https://github.com/lifeguarddotsui-GPT/The-Supreme-Person/actions/runs/36580759850)
+- **Public URL:** https://lifeguarddotsui-gpt.github.io/The-Supreme-Person/library/prakriti-and-purusha.html
+- **Image URL:** https://lifeguarddotsui-gpt.github.io/The-Supreme-Person/assets/prakriti-purusha-social-preview.jpg
+- **Validation:** Original acrylic-style 1200 × 630 JPEG; 248,603 bytes; complete Open Graph image metadata; large-image X card; descriptive image alt text; Article ImageObject structured data; updated visible and machine-readable modification dates; JSON-LD parsed; sitemap retained four valid URL entries; both Amazon links retained all campaign parameters; internal paths and the `amazon_outbound_click` hook remained present.
+- **Amazon outbound clicks:** Unavailable — no analytics measurement identifier is configured. This is not a zero-click count.
+- **Traffic figures:** Unavailable — no GA4 or Search Console data source is configured.
+- **KDP baseline:** The latest user-supplied snapshot remains 2 processed orders, $9.06 estimated royalties and 55 KENP pages read. These figures are not attributable to the reader site.
+- **Amazon listing inspection:** The public Amazon listing fetch was unavailable on 2026-09-29, so no new listing claim was recorded.
+- **Next recommended action:** Prepare a dedicated seven-post organic distribution package for the Prakriti–Purusha guide, using the guide URL as the primary destination. Keep the next long-form article for 2026-10-01 or later.
+
 ## 2026-09-28
 
 - **UTC date:** 2026-09-28
