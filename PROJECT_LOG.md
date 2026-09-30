@@ -2,6 +2,23 @@
 
 This ledger records substantive public-site growth work. Analytics figures are reported only when a configured measurement source makes them available.
 
+## 2026-09-30
+
+- **UTC date:** 2026-09-30
+- **Belize date:** 2026-09-30
+- **Task selected:** Seven-post organic X distribution package for the Prakriti–Purusha guide
+- **Reason:** The cornerstone consciousness guide and its original social-preview image were ready, but the project needed a focused free-distribution asset that sends readers to education before presenting the embedded Kindle pathway.
+- **Files changed:** `campaigns/2026-09-30-prakriti-purusha-x-campaign.md`
+- **Release commit:** `46a2abac6bc1d0870d7943307c20eff12fdb2215`
+- **Deployment result:** Succeeded — GitHub Pages workflow run [36726821878](https://github.com/lifeguarddotsui-GPT/The-Supreme-Person/actions/runs/36726821878)
+- **Public URL:** https://github.com/lifeguarddotsui-GPT/The-Supreme-Person/blob/main/campaigns/2026-09-30-prakriti-purusha-x-campaign.md
+- **Validation:** Seven distinct short posts measured 250–265 characters and the discussion question measured 260 characters, including the complete tracked guide URL. The package includes one longer educational post, the original image URL and accessible alt text. Article JSON-LD parsed; required metadata remained present; sitemap retained four valid URL entries; RSS retained two items; both article Amazon links retained all campaign parameters; the `amazon_outbound_click` hook remained present.
+- **Amazon outbound clicks:** Unavailable — no analytics measurement identifier is configured. This is not a zero-click count.
+- **Traffic figures:** Unavailable — no GA4 or Search Console data source is configured.
+- **KDP baseline:** The latest user-supplied snapshot remains 2 processed orders, $9.06 estimated royalties and 55 KENP pages read. These figures are not attributable to the reader site.
+- **Amazon listing inspection:** The public Amazon listing fetch was unavailable on 2026-09-30, so no new listing claim was recorded.
+- **Next recommended action:** On or after 2026-10-01, research and publish a distinct 1,200–1,800 word guide on evolution and the emergence of consciousness, with authoritative scientific and philosophical sources and natural links to the two existing guides.
+
 ## 2026-09-29
 
 - **UTC date:** 2026-09-29
