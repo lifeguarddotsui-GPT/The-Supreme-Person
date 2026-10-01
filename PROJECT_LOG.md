@@ -2,6 +2,24 @@
 
 This ledger records substantive public-site growth work. Analytics figures are reported only when a configured measurement source makes them available.
 
+## 2026-10-01
+
+- **UTC date:** 2026-10-01
+- **Belize date:** 2026-10-01
+- **Task selected:** Publish a substantive search-focused guide to evolution and the emergence of consciousness
+- **Reason:** The weekly long-form interval had elapsed, and “evolution of consciousness explained” is a distinct search intent that connects the book’s science-and-spirituality journey to the existing Prakriti–Purusha and karma-yoga guides.
+- **Files changed:** `library/evolution-and-consciousness.html`, `index.html`, `library/index.html`, `library/prakriti-and-purusha.html`, `sitemap.xml`, `feed.xml`
+- **Release commit:** `2afa2c80a6ea442e15f789b308685ddf1891e705`
+- **Deployment result:** Succeeded — GitHub Pages workflow run [36880163088](https://github.com/lifeguarddotsui-GPT/The-Supreme-Person/actions/runs/36880163088); the deploy job and all seven steps completed successfully.
+- **Public URL:** https://lifeguarddotsui-gpt.github.io/The-Supreme-Person/library/evolution-and-consciousness.html
+- **Validation:** The guide contains 1,769 words of visible article content. Its 44-character title and 146-character meta description are within limits. Article, FAQ and breadcrumb JSON-LD parsed; four visible FAQs match structured data; five sitemap URLs and three RSS items are present; internal guide links resolve against the repository; and the Amazon call to action retains all required UTM parameters plus the `amazon_outbound_click` hook.
+- **Sources used:** Darwin Online primary text; a peer-reviewed PNAS review of consciousness evolution; Stanford Encyclopedia of Philosophy’s neuroscience review; Birch, Schnell and Clayton’s multidimensional animal-consciousness framework; and the New York Declaration’s official evidence background.
+- **Amazon outbound clicks:** Unavailable — no analytics measurement identifier is configured. This is not a zero-click count.
+- **Traffic figures:** Unavailable — no GA4 or Search Console data source is configured.
+- **KDP baseline:** The latest user-supplied snapshot remains 2 processed orders, $9.06 estimated royalties and 55 KENP pages read. These figures are not attributable to the reader site.
+- **Amazon listing inspection:** The public Amazon listing fetch was unavailable on 2026-10-01, so no new listing claim was recorded.
+- **Next recommended action:** Create an original 1200 × 630 social-preview image for the evolution guide, add image metadata, and prepare a focused organic distribution package that sends readers to the educational article before the Kindle pathway.
+
 ## 2026-09-30
 
 - **UTC date:** 2026-09-30
